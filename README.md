@@ -1,2 +1,0 @@
-# teste_nome
-nome
